@@ -1,0 +1,217 @@
+.heading-11 {
+  position: relative;
+  line-height: 19px;
+}
+.e-sim-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px;
+}
+.stay-connected {
+  margin: 0;
+}
+.you-go {
+  color: #292b2e;
+}
+.wherever-you-go {
+  margin: 0;
+  color: #e6485c;
+}
+.stay-connected-wherever-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 62px;
+  line-height: 70px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.international-e-sim {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10.3px;
+}
+.and-forget-about,
+.with-holaflys-esim {
+  display: block;
+}
+.with-holaflys-esim-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.locationsvg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.vertical-divider1 {
+  position: absolute;
+  top: 5px;
+  left: 34px;
+  background-color: #e4e6ea;
+  width: 1px;
+  height: 16px;
+}
+.locationsvg-parent {
+  height: 26px;
+  width: 35px;
+  position: relative;
+}
+.location-placeholder {
+  width: calc(100% - 52px);
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 19px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  box-sizing: border-box;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #9d9d9d;
+  min-width: 127px;
+}
+.location-field,
+.location-input {
+  display: flex;
+  justify-content: flex-start;
+}
+.location-field {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 16px;
+}
+.location-input {
+  width: 263.5px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 11px 0 0;
+  box-sizing: border-box;
+}
+.searchpng-icon {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 13px);
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.button-search {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 14px;
+  background-color: #48ec86;
+}
+.e-sim-title,
+.e-sim-title-wrapper,
+.form {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.form {
+  width: 424.6px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 10px 6px 18px;
+  gap: 20px;
+}
+.e-sim-title,
+.e-sim-title-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.e-sim-title {
+  align-self: stretch;
+  gap: 27px;
+}
+.e-sim-title-wrapper {
+  width: 478.1px;
+  padding: 93.4px 0 0;
+  box-sizing: border-box;
+  min-width: 478.1px;
+}
+.banner-compositionwebp-icon {
+  width: 456px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.e-sim-content,
+.e-sim-content-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.e-sim-content {
+  width: 1152px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.e-sim-content-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .banner-compositionwebp-icon,
+  .e-sim-title-wrapper {
+    flex: 1;
+  }
+  .e-sim-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 925px) {
+  .stay-connected-wherever-container {
+    font-size: 50px;
+    line-height: 56px;
+  }
+  .e-sim-title-wrapper {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .stay-connected-wherever-container {
+    font-size: 37px;
+    line-height: 42px;
+  }
+  .form {
+    flex-wrap: wrap;
+  }
+  .e-sim-title-wrapper {
+    padding-top: 61px;
+    box-sizing: border-box;
+  }
+}

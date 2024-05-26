@@ -1,0 +1,436 @@
+.svg-icon15 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+}
+.intro-image-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.hi-we-are {
+  text-decoration: none;
+  position: relative;
+  line-height: 18.4px;
+  color: inherit;
+  display: inline-block;
+  min-width: 128.1px;
+}
+.intro-title-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.peace-of-mind {
+  color: #e6485c;
+}
+.wherever-they {
+  color: #292b2e;
+}
+.are,
+.we-give-travellers-peace-of-mi {
+  margin: 0;
+}
+.we-give-travellers-container {
+  margin: 0;
+  align-self: stretch;
+  height: 94.2px;
+  position: relative;
+  font-size: 48px;
+  line-height: 55.2px;
+  font-weight: 500;
+  font-family: inherit;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  color: #292b2e;
+}
+.intro-content,
+.intro-image-container-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.intro-image-container-parent {
+  width: 1045.2px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 23.8px;
+}
+.intro-content {
+  width: 1440px;
+  flex-direction: row;
+  justify-content: center;
+}
+.image-icon15,
+.image-icon16 {
+  width: 244.8px;
+  height: 248.6px;
+  position: relative;
+  object-fit: contain;
+  display: none;
+}
+.image-icon16 {
+  width: 160px;
+  height: 190px;
+}
+.saffron {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 61.3px;
+}
+.traditional-chinese-content {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow,
+.saffron-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.paragraphbackgroundshadow {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: 149px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.saffron-container {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 0 0 116px;
+  box-sizing: border-box;
+  min-width: 176px;
+  min-height: 328px;
+}
+.daniela {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 61px;
+}
+.product-operation-specialist {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow1 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.daniela1 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 61px;
+}
+.esim-marketing-manager {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow2,
+.team-members-rows {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.paragraphbackgroundshadow2 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.team-members-rows {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 176px;
+}
+.daniela2 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 61px;
+}
+.digital-account-executive {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow3 {
+  height: 444px;
+  width: 260px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 16px;
+  box-sizing: border-box;
+  background-image: url(/public/paragraphbackgroundshadow3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.cristian,
+.ui-designer {
+  position: relative;
+  display: inline-block;
+}
+.cristian {
+  line-height: 26px;
+  font-weight: 700;
+  min-width: 64.8px;
+}
+.ui-designer {
+  font-size: 14px;
+  line-height: 20px;
+  min-width: 73.6px;
+}
+.paragraphbackgroundshadow4 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.chutima {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 69.9px;
+}
+.carrier-business-developer {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow5,
+.team-members-rows1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.paragraphbackgroundshadow5 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.team-members-rows1 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 176px;
+}
+.brenda,
+.content-manager {
+  position: relative;
+  display: inline-block;
+}
+.brenda {
+  line-height: 26px;
+  font-weight: 700;
+  min-width: 58.4px;
+}
+.content-manager {
+  font-size: 14px;
+  line-height: 20px;
+  min-width: 111.3px;
+}
+.paragraphbackgroundshadow6 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 150px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.button-icon1 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 6px;
+  transform: scale(2);
+}
+.wrapper-button {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 36px;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-icon2 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 6px;
+  transform: scale(2);
+}
+.wrapper-button1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 36px;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.see-more-button-container,
+.see-more-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.see-more-buttons {
+  height: 48px;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.see-more-button-container {
+  justify-content: flex-end;
+  padding: 0 25px;
+}
+.brenda-container,
+.brenda-info {
+  display: flex;
+  flex-direction: column;
+}
+.brenda-info {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64.3px;
+}
+.brenda-container {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3.7px;
+  box-sizing: border-box;
+  min-width: 176px;
+}
+.saffron-container-parent {
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 18px;
+  color: #fff;
+}
+.background54 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px 131.3px;
+  box-sizing: border-box;
+  gap: 80.6px;
+  background-image: url(/public/background1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1325px) {
+  .saffron-container-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .we-give-travellers-container {
+    font-size: 38px;
+    line-height: 44px;
+  }
+  .background54 {
+    gap: 40px;
+    padding-bottom: 85px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .we-give-travellers-container {
+    font-size: 29px;
+    line-height: 33px;
+  }
+  .brenda-info {
+    gap: 32px;
+  }
+  .background54 {
+    gap: 20px;
+    padding-bottom: 55px;
+    box-sizing: border-box;
+  }
+}

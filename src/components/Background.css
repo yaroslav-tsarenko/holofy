@@ -1,0 +1,523 @@
+.holafly-logosvg-icon,
+.wavepng-icon {
+  height: 52.5px;
+  width: 150px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wavepng-icon {
+  height: 116px;
+  width: 1920px;
+  position: absolute;
+  margin: 0 !important;
+  top: -156px;
+  right: -1530px;
+  object-fit: cover;
+}
+.link44 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.border29 {
+  height: 40px;
+  width: 140px;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid #292b2e;
+  box-sizing: border-box;
+  display: none;
+}
+.svg-icon11,
+.svg-icon12 {
+  height: 22px;
+  width: 18px;
+  position: relative;
+  z-index: 1;
+}
+.svg-icon12 {
+  height: 17px;
+  width: 77px;
+}
+.border-parent,
+.border30 {
+  border-radius: 8px;
+  border: 1px solid #292b2e;
+  box-sizing: border-box;
+}
+.border-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 7px 16px 7px 20px;
+  gap: 6.7px;
+  min-width: 91px;
+}
+.border30 {
+  height: 40px;
+  width: 140px;
+  position: relative;
+  display: none;
+}
+.svg-icon13,
+.svg-icon14 {
+  position: relative;
+  z-index: 1;
+}
+.svg-icon13 {
+  height: 22px;
+  width: 20px;
+}
+.svg-icon14 {
+  align-self: stretch;
+  height: 16px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.svg-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.2px;
+}
+.border-group,
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.border-group {
+  flex: 1;
+  border-radius: 8px;
+  border: 1px solid #292b2e;
+  box-sizing: border-box;
+  align-items: flex-end;
+  padding: 8px 14px 7px 17px;
+  gap: 6.3px;
+  min-width: 91px;
+}
+.social-icons {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 20px;
+}
+.link-facebooksvg {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-icons-bottom1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.link-instagramsvg,
+.link-youtubesvg {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link-instagramsvg {
+  height: 20px;
+  width: 20px;
+  min-height: 20px;
+}
+.link-youtubesvg {
+  width: 16px;
+  height: 14px;
+}
+.social-icon-bottom-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.link-linkedinsvg {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-icons-bottom2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.link-twittersvg {
+  width: 22px;
+  height: 17px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-icon-bottom-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+}
+.social-icons-bottom,
+.social-icons-bottom-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.social-icons-bottom-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.social-icons-bottom {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 26px 0 20px;
+}
+.holafly-logo-and-links,
+.social-icons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-icons-container {
+  align-self: stretch;
+  gap: 35px;
+}
+.holafly-logo-and-links {
+  width: 300px;
+  gap: 26.4px;
+  min-width: 300px;
+}
+.top-destinations1 {
+  position: relative;
+  line-height: 18.4px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 120.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.item-link12,
+.item-link13,
+.item-link14 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 45px;
+}
+.item-link13,
+.item-link14 {
+  min-width: 27px;
+}
+.item-link14 {
+  font-size: 13.6px;
+  min-width: 38px;
+}
+.item-link15 {
+  min-width: 42.3px;
+}
+.item-link15,
+.item-link16,
+.item-link17 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.item-link16 {
+  font-size: 13.9px;
+  min-width: 35px;
+}
+.item-link17 {
+  min-width: 43px;
+}
+.top-destinations,
+.top-destinations-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.top-destinations-links {
+  gap: 16px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 14px;
+}
+.top-destinations {
+  padding: 0 18px 0 0;
+  gap: 28.2px;
+}
+.legal {
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 39px;
+}
+.item-link18 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+}
+.item-link19,
+.item-link20 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+}
+.item-link19 {
+  text-decoration: none;
+  color: inherit;
+  min-width: 87.8px;
+}
+.item-link20 {
+  min-width: 93.8px;
+}
+.item-link21 {
+  display: inline-block;
+  min-width: 86.2px;
+}
+.item-link21,
+.item-link22 {
+  position: relative;
+  line-height: 20px;
+}
+.footer-links-column,
+.footer-links1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 14px;
+}
+.footer-links-column {
+  gap: 27.6px;
+  font-size: 15.9px;
+}
+.interest {
+  position: relative;
+  line-height: 18.4px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 56.1px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.item-link23 {
+  display: inline-block;
+  min-width: 101.1px;
+}
+.item-link23,
+.item-link24,
+.item-link25,
+.item-link26,
+.item-link27 {
+  position: relative;
+  line-height: 20px;
+}
+.item-link26,
+.item-link27 {
+  display: inline-block;
+  min-width: 33.8px;
+}
+.item-link27 {
+  min-width: 28.3px;
+}
+.footer-links-column1,
+.item-link-what-is-an-esim-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link-what-is-an-esim-parent {
+  gap: 16px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 14px;
+}
+.footer-links-column1 {
+  gap: 28.2px;
+}
+.footer-links {
+  justify-content: flex-start;
+  gap: 102.5px;
+  min-width: 715.9px;
+}
+.footer-columns,
+.footer-content-container,
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-columns {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer-content-container {
+  width: 1536px;
+  justify-content: flex-start;
+  padding: 0 52px 0 48px;
+  box-sizing: border-box;
+}
+.made-with {
+  position: relative;
+  line-height: 16.1px;
+  display: inline-block;
+  min-width: 69.7px;
+}
+.made-with-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.9px 0 0;
+}
+.lovesvg-icon {
+  height: 14px;
+  width: 15px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.by-people-who {
+  align-self: stretch;
+  position: relative;
+  line-height: 16.1px;
+}
+.by-people-who-love-to-travel-wrapper {
+  width: 195.9px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.9px 9px 0 0;
+  box-sizing: border-box;
+}
+.holafly-2024 {
+  position: relative;
+  font-size: 13.5px;
+  line-height: 17px;
+  display: inline-block;
+  min-width: 90px;
+}
+.horizontalborder4 {
+  width: 1536px;
+  border-top: 1px solid #dde1e8;
+  box-sizing: border-box;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 5px 0.1px;
+  max-width: 100%;
+  font-size: 14px;
+  color: #000;
+}
+.a28413d6761d624ff11223c3c1cfd0-icon {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 12px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.button-open-intercom-messeng {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  margin: 0 !important;
+  right: 35px;
+  bottom: 81.6px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06), 0 2px 32px rgba(0, 0, 0, 0.16);
+  border-radius: 24px;
+  background-color: #e6485c;
+  z-index: 2;
+}
+.background53 {
+  align-self: stretch;
+  background-color: #f8f8fb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 39.8px 20px 12px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 82px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .footer-links,
+  .holafly-logo-and-links {
+    flex: 1;
+  }
+  .footer-columns {
+    flex-wrap: wrap;
+  }
+  .footer-content-container {
+    padding-left: 24px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .footer-links {
+    flex-wrap: wrap;
+    gap: 51px;
+    min-width: 100%;
+  }
+  .background53 {
+    gap: 41px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .social-icons {
+    flex-wrap: wrap;
+  }
+  .social-icons-bottom-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .social-icons-container {
+    gap: 17px;
+  }
+  .footer-links {
+    gap: 26px;
+  }
+  .background53 {
+    gap: 20px;
+    padding-top: 26px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

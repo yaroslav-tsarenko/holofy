@@ -1,0 +1,536 @@
+.horizontal-divider {
+  height: 2px;
+  width: 24px;
+  position: relative;
+  background-color: #292b2e;
+}
+.divider-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.affiliate-heading-container,
+.heading-215 {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.heading-215 {
+  margin: 0;
+  width: 433.7px;
+  position: relative;
+  font-size: inherit;
+  line-height: 34px;
+  font-weight: 500;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.affiliate-heading-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.creatorsholaflycom,
+.if-youre-an {
+  font-family: Roboto;
+}
+.if-youre-an-container1 {
+  width: 100%;
+}
+.if-youre-an-container {
+  margin: 0;
+  width: 384px;
+  position: relative;
+  font-size: 8px;
+  line-height: 19px;
+  color: #000;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.affiliate-email-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.businessholaflycom,
+.for-corporate-matters {
+  font-family: Roboto;
+}
+.for-corporate-matters-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 8px;
+  line-height: 19px;
+  color: #000;
+  text-align: center;
+}
+.form-heading,
+.or-fill-out {
+  display: flex;
+  justify-content: center;
+}
+.or-fill-out {
+  width: 204.1px;
+  position: relative;
+  font-size: 8px;
+  line-height: 19px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.form-heading {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 21px;
+}
+.corporate-email-container {
+  width: 451.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9.4px;
+  max-width: 100%;
+}
+.corporate-email {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 4.4px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.input {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 50px;
+  font-family: Roboto;
+  font-size: 15.6px;
+  color: #757575;
+}
+.imagebackgroundshadow-icon {
+  height: 11px;
+  width: 20px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 5.5px);
+  left: 9px;
+  object-fit: contain;
+}
+.border10 {
+  height: 4px;
+  width: 6px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 2px);
+  left: 35px;
+  border-top: 4px solid #555;
+  border-right: 3px solid #555;
+  border-left: 3px solid #555;
+  box-sizing: border-box;
+}
+.div12 {
+  position: relative;
+  font-size: 13.4px;
+  font-family: Roboto;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 16px;
+}
+.input1 {
+  flex: 1;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 53px;
+  max-width: 100%;
+  z-index: 1;
+}
+.email-input-components,
+.input2 {
+  flex: 1;
+  min-width: 255px;
+  max-width: 100%;
+}
+.email-input-components {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.input2 {
+  border: 0;
+  background-color: transparent;
+  height: 50px;
+  font-family: Roboto;
+  font-size: 15.8px;
+  color: #757575;
+}
+.email-input {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  max-width: 100%;
+}
+.label-icon,
+.textarea {
+  align-self: stretch;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label-icon {
+  height: 50px;
+  max-width: 100%;
+  object-fit: cover;
+}
+.textarea {
+  height: 87.2px;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+}
+.terms-checkbox-container {
+  margin: 0;
+  height: 14.2px;
+  width: 13px;
+}
+.i-accept-the {
+  font-family: Roboto;
+}
+.terms-and-conditions {
+  text-decoration: underline;
+  font-family: Roboto;
+}
+.and-the {
+  font-family: Roboto;
+}
+.treatment-of-data {
+  text-decoration: underline;
+  font-family: Roboto;
+}
+.span5 {
+  font-family: Roboto;
+}
+.i-accept-the-container {
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  color: #292b2e;
+  text-align: center;
+  display: inline-block;
+  min-width: 308px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.terms-checkbox,
+.terms-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.terms-container {
+  width: 491.3px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 4.5px;
+}
+.terms-checkbox {
+  width: 789.8px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.contact-form {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 18.6px;
+  max-width: 100%;
+}
+.input3 {
+  align-self: stretch;
+  height: 50px;
+}
+.affiliate-divider,
+.affiliate-email {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.affiliate-email {
+  margin: 0;
+  align-self: stretch;
+  gap: 18.6px;
+}
+.affiliate-divider {
+  width: 806.4px;
+  gap: 40px;
+}
+.affiliate-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.do-you-have,
+.questions1 {
+  margin: 0;
+}
+.do-you-have-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 34px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.receive-a-response-as-soon-as,
+.write-to-our-email-and-you-wil {
+  display: block;
+}
+.helpholaflycom {
+  font-weight: 500;
+  font-family: Roboto;
+}
+.possible-helpholaflycom {
+  display: block;
+}
+.write-to-our-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+}
+.online-interviewwebp-icon {
+  width: 268px;
+  height: 268px;
+  position: absolute;
+  margin: 0 !important;
+  top: -45px;
+  right: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background39 {
+  flex: 1;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 52px 20px 52.2px 48px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 11.8px;
+  background-image: url(/public/background4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 529px;
+  max-width: 100%;
+}
+.about-our-services,
+.check-out-the {
+  margin: 0;
+}
+.check-out-the-container1 {
+  width: 100%;
+}
+.check-out-the-container {
+  margin: 0;
+  width: 537.3px;
+  position: relative;
+  font-size: inherit;
+  line-height: 34px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link36 {
+  width: 120.5px;
+  height: 44.4px;
+}
+.background40 {
+  flex: 1;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 57.4px 20px 57.4px 48px;
+  box-sizing: border-box;
+  gap: 12px;
+  background-image: url(/public/background5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.affiliate-container,
+.background-group,
+.background40 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.background-group {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 28px;
+  text-align: left;
+}
+.affiliate-container {
+  width: 1440px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 93.4px;
+}
+.affiliate-container-wrapper,
+.background38 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.affiliate-container-wrapper {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 109.9px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 28px;
+  color: #000;
+  font-family: Roboto;
+}
+.background38 {
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.image-icon6 {
+  width: 1px;
+  height: 1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.contactus {
+  width: 100%;
+  position: relative;
+  background-color: #f4f4f4;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4.4px;
+  box-sizing: border-box;
+  gap: 13px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .affiliate-container-wrapper {
+    padding-bottom: 71px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .email-input-components,
+  .input2 {
+    flex: 1;
+  }
+  .email-input {
+    flex-wrap: wrap;
+  }
+  .background39 {
+    min-width: 100%;
+  }
+  .background40 {
+    padding-left: 24px;
+    box-sizing: border-box;
+  }
+  .affiliate-container {
+    gap: 47px;
+  }
+  .affiliate-container-wrapper {
+    padding-bottom: 46px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-215 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .input3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .affiliate-divider {
+    gap: 20px;
+  }
+  .do-you-have-container {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .background39 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .check-out-the-container {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .affiliate-container {
+    gap: 23px;
+  }
+}

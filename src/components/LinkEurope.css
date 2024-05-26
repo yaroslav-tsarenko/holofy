@@ -1,0 +1,141 @@
+.europepng-icon {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(2.667);
+}
+.wrapper-europepng {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  border-radius: 37px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-europepng-wrapper {
+  height: 66px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+  box-sizing: border-box;
+}
+.esim3,
+.eur1,
+.europe,
+.from-6001 {
+  position: relative;
+  display: inline-block;
+}
+.esim3 {
+  line-height: 20px;
+  color: #292b2e;
+  min-width: 32px;
+}
+.eur1,
+.europe,
+.from-6001 {
+  line-height: 28px;
+  font-weight: 500;
+}
+.europe {
+  font-size: 22px;
+  min-width: 71.2px;
+}
+.eur1,
+.from-6001 {
+  min-width: 105.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.eur1 {
+  line-height: 16px;
+  font-weight: 700;
+  min-width: 26.1px;
+}
+.destination-currency {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  font-size: 12px;
+}
+.from-600-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+}
+.image-icon8 {
+  height: 40px;
+  width: 180px;
+  position: relative;
+  border-radius: 16px;
+}
+.destination-flags {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.destination-pricing {
+  align-self: stretch;
+  flex-direction: column;
+  font-size: 20px;
+}
+.destination-pricing,
+.esim-parent,
+.link-europe {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.esim-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 170px;
+}
+.link-europe {
+  width: 368px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 39px 0 0 32px;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .europe,
+  .from-6001 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .from-6001 {
+    font-size: 16px;
+  }
+  .link-europe {
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

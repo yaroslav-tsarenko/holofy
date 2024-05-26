@@ -1,0 +1,850 @@
+.heading-220 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.team-heading-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.heading-313 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.around-the-world,
+.our-passion-for,
+.work-and-we {
+  display: block;
+}
+.our-passion-for-container1 {
+  width: 100%;
+}
+.our-passion-for-container {
+  margin: 0;
+  width: 394px;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.paragraphbackgroundborder,
+.support-values,
+.team-value-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.paragraphbackgroundborder {
+  align-self: stretch;
+  border-radius: 16px;
+  justify-content: flex-end;
+  padding: 267px 20px 31px 33px;
+  box-sizing: border-box;
+  gap: 20px;
+  background-image: url(/public/paragraphbackgroundborder@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.support-values,
+.team-value-container {
+  flex: 1;
+  justify-content: flex-start;
+  min-width: 348px;
+}
+.team-value-container {
+  padding: 74px 0 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+.support-values {
+  gap: 24px;
+}
+.ecosvg-icon {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  margin: 0 !important;
+  top: 33px;
+  left: 33px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-314 {
+  margin: 0;
+  position: relative;
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 1;
+}
+.stainsvg-icon {
+  height: 206px;
+  width: 196px;
+  position: absolute;
+  margin: 0 !important;
+  top: -148px;
+  right: -41.5px;
+  border-radius: 0 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.and-implementing-sustainable,
+.generations,
+.our-business-the,
+.we-are-committed {
+  display: block;
+}
+.we-are-committed-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+  z-index: 1;
+}
+.stain-description {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.link-read {
+  text-decoration: underline;
+  position: relative;
+  line-height: 18.4px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.backgroundborder9 {
+  align-self: stretch;
+  border-radius: 16px;
+  background: linear-gradient(
+    225.86deg,
+    rgba(242, 253, 235, 0.6),
+    rgba(224, 244, 253, 0.6) 98.08%
+  );
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 99px 33px 32px;
+  position: relative;
+  gap: 19.9px;
+}
+.backgroundborder9,
+.planet-value,
+.team-values-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.planet-value {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 127.8px 0 0;
+  box-sizing: border-box;
+  min-width: 348px;
+  font-size: 16px;
+}
+.team-values-container {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  text-align: left;
+  font-size: 22px;
+}
+.team-heading-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 40px;
+  max-width: 100%;
+  color: #000;
+}
+.heading-221 {
+  margin: 0;
+  position: relative;
+  font-size: 34px;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.it-means-to,
+.we-want-you {
+  display: block;
+}
+.we-want-you-container {
+  margin: 0;
+}
+.our-team-tells,
+.we-want-you-container {
+  position: relative;
+  line-height: 22px;
+}
+.instagramwebp-icon {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.link45 {
+  height: 50px;
+  flex: 1;
+  position: relative;
+  border-radius: 12px;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+}
+.twitterwebp-icon {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.link46 {
+  height: 50px;
+  flex: 1;
+  position: relative;
+  border-radius: 12px;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+}
+.tiktokwebp-icon {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.link47 {
+  height: 50px;
+  flex: 1;
+  position: relative;
+  border-radius: 12px;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+}
+.social-links {
+  width: 174px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.testimonials-heading-content,
+.testimonials-heading-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.testimonials-heading-content {
+  gap: 16px;
+}
+.testimonials-heading-wrapper {
+  padding: 142px 0 0;
+  box-sizing: border-box;
+  min-width: 492.9000000000001px;
+}
+.link-dayana-modal-videojpg {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 16px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.button-iconwebp {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.testimonial-card {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 195.2px 63px 142.8px;
+  box-sizing: border-box;
+  position: relative;
+  min-width: 179px;
+}
+.link-karen-modal-videojpg {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 16px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.button-iconwebp1 {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.container55,
+.testimonial-card1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.testimonial-card1 {
+  flex: 1;
+  padding: 195.2px 63px 142.8px;
+  box-sizing: border-box;
+  position: relative;
+  min-width: 179px;
+}
+.container55 {
+  align-self: stretch;
+  overflow: hidden;
+  gap: 24px;
+}
+.h1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 33px;
+  font-weight: 200;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 9px;
+}
+.previous2 {
+  flex: 1;
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 9px 2px 14px;
+  opacity: 0.5;
+}
+.h11 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 33px;
+  font-weight: 200;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 9px;
+}
+.next2 {
+  flex: 1;
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  justify-content: flex-start;
+  padding: 2px 9px 2px 14px;
+}
+.navigation-buttons,
+.next2,
+.slider-navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.navigation-buttons {
+  width: 85.5px;
+  justify-content: flex-start;
+  gap: 16.5px;
+}
+.slider-navigation {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 24px;
+}
+.testimonial-slider,
+.testimonials-heading-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.testimonial-slider {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6.9px;
+  min-width: 374px;
+  text-align: center;
+  font-size: 28px;
+  color: #000;
+}
+.testimonials-heading-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 83.1px;
+}
+.heading-222 {
+  margin: 0;
+  position: relative;
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.be-part-of,
+.the-world-to {
+  display: block;
+}
+.be-part-of-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.check-out-our {
+  position: relative;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+}
+.right-arrowsvg-icon1 {
+  width: 17px;
+  height: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.right-arrowsvg-wrapper {
+  flex-direction: column;
+  padding: 4px 0 0;
+}
+.join-mission-container,
+.join-mission-content,
+.right-arrowsvg-wrapper,
+.vacancies {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vacancies {
+  flex-direction: row;
+  gap: 9.8px;
+}
+.join-mission-container,
+.join-mission-content {
+  flex-direction: column;
+}
+.join-mission-content {
+  align-self: stretch;
+  gap: 16px;
+}
+.join-mission-container {
+  width: 499.7px;
+  padding: 60px 0 0;
+  box-sizing: border-box;
+  min-width: 499.6999999999998px;
+  max-width: 100%;
+}
+.join-mission-desktop-finalweb-icon {
+  width: 402.5px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  max-width: 100%;
+}
+.section5,
+.testimonials-content {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.section5 {
+  align-self: stretch;
+  border-radius: 16px;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 2px 0 60px;
+  gap: 20px;
+}
+.testimonials-content {
+  width: 1152px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 73.1px;
+}
+.team-testimonials {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+}
+.heading-223,
+.location-container,
+.team-testimonials {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.heading-223 {
+  margin: 0;
+  width: 348.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.location-container {
+  width: 1359.5px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.irelandwebp-icon {
+  height: 58px;
+  width: 58px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  debug_commit: bf4bc93;
+}
+.dublin-2-ireland,
+.th-floor-2-grand-canal-square,
+.vat-4195777wh {
+  display: block;
+}
+.dublin-2-ireland-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.location-card {
+  flex: 0.9622;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+  gap: 20px;
+  min-width: 206px;
+}
+.medellinwebp-icon {
+  height: 58px;
+  width: 58px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.career-number-42-5-south-145,
+.el-poblado,
+.medelln-colombia {
+  display: block;
+}
+.medelln-colombia-career-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+}
+.location-card1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  min-width: 206px;
+}
+.limawebp-icon {
+  height: 58px;
+  width: 58px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.andres-reyes-avenue,
+.lima-per,
+.san-isidro {
+  margin: 0;
+}
+.lima-per-338-container {
+  position: relative;
+  line-height: 22px;
+}
+.location-card2 {
+  flex: 0.8425;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 50px 0 0;
+  box-sizing: border-box;
+  gap: 20px;
+  min-width: 206px;
+}
+.bangkokwebp-icon {
+  height: 58px;
+  width: 58px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.bangkok-thailand,
+.khet-khlong-toei,
+.no8-t-one-building-15-floor,
+.sukhumvit-40-alley {
+  display: block;
+}
+.bangkok-thailand-no8-container {
+  margin: 0;
+  position: relative;
+  line-height: 22px;
+}
+.bangkok-card,
+.location-cards {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.location-cards {
+  align-self: stretch;
+  justify-content: center;
+  gap: 50.6px;
+  text-align: left;
+  font-size: 16px;
+}
+.locations,
+.team-content-container {
+  width: 1400.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 60px;
+  max-width: 100%;
+}
+.team-content-container {
+  width: 1440px;
+  align-items: flex-start;
+  gap: 120px;
+  text-align: center;
+  font-size: 34px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1325px) {
+  .testimonials-heading-wrapper {
+    flex: 1;
+  }
+  .testimonials-heading-container {
+    flex-wrap: wrap;
+    gap: 42px;
+  }
+  .join-mission-container,
+  .join-mission-desktop-finalweb-icon {
+    flex: 1;
+  }
+  .section5 {
+    flex-wrap: wrap;
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+  .testimonials-content {
+    gap: 37px;
+  }
+  .location-cards {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-220 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .team-value-container {
+    padding-top: 48px;
+    box-sizing: border-box;
+  }
+  .team-heading-container {
+    gap: 20px;
+  }
+  .heading-221 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .testimonials-heading-wrapper {
+    min-width: 100%;
+  }
+  .testimonial-card,
+  .testimonial-card1 {
+    padding-top: 127px;
+    padding-bottom: 93px;
+    box-sizing: border-box;
+  }
+  .container55 {
+    flex-wrap: wrap;
+  }
+  .testimonial-slider {
+    min-width: 100%;
+  }
+  .testimonials-heading-container {
+    gap: 21px;
+  }
+  .join-mission-container {
+    min-width: 100%;
+  }
+  .testimonials-content {
+    gap: 18px;
+  }
+  .heading-223 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .location-cards {
+    gap: 25px;
+  }
+  .locations {
+    gap: 30px;
+  }
+  .team-content-container {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-220 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .heading-313 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .paragraphbackgroundborder {
+    padding-top: 174px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .support-values,
+  .team-value-container {
+    min-width: 100%;
+  }
+  .heading-314 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .planet-value {
+    padding-top: 83px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .heading-221 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .testimonial-card,
+  .testimonial-card1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .h1,
+  .h11,
+  .heading-222 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .heading-222 {
+    line-height: 27px;
+  }
+  .heading-223 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .location-card {
+    flex: 1;
+  }
+  .location-card2 {
+    padding-right: 20px;
+    box-sizing: border-box;
+    flex: 1;
+  }
+  .team-content-container {
+    gap: 30px;
+  }
+}

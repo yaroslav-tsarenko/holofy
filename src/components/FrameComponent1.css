@@ -1,0 +1,451 @@
+.holafly-is-the,
+.international-esim-check {
+  margin: 0;
+}
+.holafly-is-the-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.testimonial-content {
+  width: 1099.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.quote-symbolsvg-icon {
+  width: 24px;
+  height: 17.3px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dont-stress-about1,
+.easy-to-follow,
+.holafly-to-travel,
+.that-i-used,
+.was-going-to {
+  display: block;
+}
+.dont-stress-about-container1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 26px;
+}
+.karen-christensen {
+  position: relative;
+  line-height: 14px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 117.6px;
+}
+.verifiedsvg-icon {
+  height: 15px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 15px;
+}
+.verified-buyer {
+  position: relative;
+  line-height: 14px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 91.3px;
+}
+.name1,
+.verification {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.verification {
+  gap: 7px;
+  color: #2065ce;
+}
+.name1 {
+  gap: 12.8px;
+}
+.h2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 8px;
+}
+.previous {
+  flex: 1;
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px 0.8px 13px;
+  opacity: 0.5;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.h21 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 8px;
+}
+.navigation1,
+.next {
+  flex: 1;
+  flex-direction: row;
+}
+.next {
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px 0.8px 13px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.navigation1 {
+  gap: 10px;
+}
+.customer-name,
+.navigation1,
+.quote,
+.quote-content,
+.testimonial-navigation {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.testimonial-navigation {
+  width: 77.6px;
+  flex-direction: row;
+  padding: 0 1px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 24px;
+}
+.customer-name,
+.quote,
+.quote-content {
+  flex-direction: column;
+}
+.customer-name {
+  gap: 21.3px;
+  font-size: 14px;
+}
+.quote,
+.quote-content {
+  align-self: stretch;
+  gap: 24px;
+}
+.quote {
+  gap: 27px;
+}
+.on,
+.review-count {
+  position: relative;
+  line-height: 48px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 64px;
+}
+.on {
+  line-height: 34px;
+  min-width: 34.5px;
+  z-index: 1;
+}
+.on-wrapper {
+  width: 43.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 8px 3px 0;
+  box-sizing: border-box;
+  margin-left: -1px;
+  font-size: 34px;
+}
+.star-trustpilotsvg-icon1 {
+  width: 40px;
+  height: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.trustpilot-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 7.2px;
+  margin-left: -1px;
+}
+.review-source,
+.stars-and-review {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.stars-and-review {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 0 0;
+}
+.based-on-370001,
+.customer-reviews-on1 {
+  display: block;
+}
+.based-on-37000-container1 {
+  margin: 0;
+  position: relative;
+  line-height: 26px;
+}
+.trustpilot2 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 69.4px;
+  z-index: 1;
+}
+.trustpilot1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  margin-left: -0.2px;
+  font-size: 16px;
+}
+.trustpilot-source {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+.rating-content {
+  flex-direction: row;
+  gap: 30px;
+}
+.quote-details1,
+.rating,
+.rating-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rating {
+  flex-direction: row;
+  padding: 0 42px;
+  box-sizing: border-box;
+  font-size: 44.6px;
+}
+.quote-details1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 119.8px;
+  min-width: 400px;
+}
+.peoplewebp-icon {
+  height: 320px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.traveler-image-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 21px;
+}
+.m {
+  position: relative;
+  line-height: 48px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 88px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.travelers-who,
+.trust-us-worldwide {
+  margin: 0;
+}
+.travelers-who-trust-container {
+  position: relative;
+  line-height: 22px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.traveler-count,
+.traveler-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.traveler-description {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 16px;
+}
+.traveler-count {
+  flex-direction: row;
+  gap: 23.7px;
+}
+.testimonial-details,
+.traveler-image {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.traveler-image {
+  width: 341px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 66.4px;
+  min-width: 341px;
+  font-size: 43.9px;
+}
+.testimonial-details {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 170px;
+  text-align: left;
+  font-size: 18px;
+}
+.testimonial {
+  width: 1126.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 60px;
+  max-width: 100%;
+}
+.testimonial-wrapper {
+  width: 1894.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 152px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 34px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .traveler-image {
+    flex: 1;
+  }
+  .testimonial-details {
+    flex-wrap: wrap;
+    gap: 85px;
+  }
+  .testimonial {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 925px) {
+  .holafly-is-the-container {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .review-count {
+    font-size: 36px;
+    line-height: 38px;
+  }
+  .on {
+    font-size: 27px;
+    line-height: 27px;
+  }
+  .rating-content {
+    flex-wrap: wrap;
+  }
+  .rating {
+    padding-left: 21px;
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+  .quote-details1 {
+    gap: 60px;
+    min-width: 100%;
+  }
+  .m {
+    font-size: 35px;
+    line-height: 38px;
+  }
+  .testimonial-details {
+    gap: 42px;
+  }
+  .testimonial-wrapper {
+    padding-bottom: 99px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .holafly-is-the-container {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .h2,
+  .h21 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .review-count {
+    font-size: 27px;
+    line-height: 29px;
+  }
+  .on {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .quote-details1 {
+    gap: 30px;
+  }
+  .m {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .traveler-image {
+    gap: 33px;
+    min-width: 100%;
+  }
+  .testimonial-details {
+    gap: 21px;
+  }
+}
